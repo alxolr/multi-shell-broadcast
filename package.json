@@ -1,0 +1,23 @@
+{
+  "name": "multi-shell-broadcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxolr/multi-shell-broadcast.git"
+  },
+  "bin": {
+    "shell_broadcast": "./bin/shell-broadcast.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxolr/multi-shell-broadcast/issues"
+  },
+  "homepage": "https://github.com/alxolr/multi-shell-broadcast#readme"
+}
